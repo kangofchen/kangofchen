@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on zhihu
+- 🔭 I’m currently working on plantark.cn
 - 🌱 I’m currently learning client developer
 - 💬 Ask me about anything
 - 📫 How to reach me: kangofchen@gmail.com
