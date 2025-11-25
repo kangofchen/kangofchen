@@ -1,9 +1,10 @@
-Hi there, I'm Tony Chan! 👋
-I'm a passionate Software Developer, Full-Stack Engineer who loves to build innovative solutions and contribute to open-source projects. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+Hi there, I'm Tony Chan! 
+
+👋I'm a passionate Software Developer, Full-Stack Engineer who loves to build innovative solutions and contribute to open-source projects. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
 🚀 Technologies & Tools
 Languages:
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white]
 https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
 https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
