@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on plantark.cn
-- 🌱 I’m currently learning client developer
 - 💬 Ask me based on my experience
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangofchen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - 📫 How to reach me: kangofchen@gmail.com
